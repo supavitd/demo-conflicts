@@ -1,3 +1,3 @@
 # demo-conflicts
 
-I'm writing from local repo.
+I'm writing from Github.com
